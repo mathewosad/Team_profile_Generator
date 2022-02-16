@@ -33,11 +33,10 @@ A Node command-line application that uses inquirer and takes in information abou
   
 * Then a team.html page will be generated in the output directory, that displays a nicely formatted team roster.
   
-* This is a sample [Team](Assets/team-sample.png) page for a project generated using this application
+* This is a sample [Team](./Assets/Screenshot.JPG) page for a project generated using this application
   
-  ![Sample Our Team Image](Assets/team-sample.png)
+  ![Sample Our Team Image](./Assets/Screenshot.JPG)
   
-* [Video Demo](https://drive.google.com/file/d/1IJ66h3Nfno3LRM_ivrujQucSSFkvLCcp/view?usp=sharing)
 
 ## Features
 
@@ -48,6 +47,6 @@ A Node command-line application that uses inquirer and takes in information abou
 
 ## License
 
-  Copyright (c) Mengmei Tu. All rights reserved.
+  Copyright (c) Mathew Osad. All rights reserved.
   
   Licensed under the [MIT](LICENSE) license.
