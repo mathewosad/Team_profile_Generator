@@ -1,6 +1,6 @@
 # Team Profile Generator
 
-![License Badge](https://img.shields.io/github/license/mmeii/10-team-profile-generator) ![Top Language](https://img.shields.io/github/languages/top/mmeii/10-team-profile-generator)
+![License Badge](https://img.shields.io/github/license/mathewosad/Team_profile_Generator) ![Top Language](https://img.shields.io/github/languages/top/mathewosad/Team_profile_Generator)
 
 A Node command-line application that uses inquirer and takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
