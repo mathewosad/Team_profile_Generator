@@ -6,7 +6,7 @@ A Node command-line application that uses inquirer and takes in information abou
 
 ## Installation
 
-1. Download or clone repository
+1. Download or clone repository 
 2. Node.js is required to run the application
 3. `npm install` to install the required npm packages
 
