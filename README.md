@@ -36,6 +36,8 @@ A Node command-line application that uses inquirer and takes in information abou
 * This is a sample [Team](./Assets/Screenshot.JPG) page for a project generated using this application
   
   ![Sample Our Team Image](./Assets/Screenshot.JPG)
+
+* This is a [DEMO](https://drive.google.com/file/d/1WbJnp2xb7tf27h10k2fdqauHFSWki_oh/view)
   
 
 ## Features
